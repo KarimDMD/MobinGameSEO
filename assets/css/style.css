@@ -1,4 +1,10 @@
 .img-thumbnail{
     background-color: transparent;
     border: 1px solid transparent;
-  }
+}
+
+.containerCGU{
+  border: 3px solid #2DA32D;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
