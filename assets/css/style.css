@@ -29,3 +29,44 @@
 .underline{
   text-decoration: underline;
 }
+
+.a-style{
+  color: #2DA32D;
+}
+
+.a-style:hover{
+  color: #2DA32D;
+}
+
+.a-style2{
+  color: #2A2A2A;
+}
+
+.a-style2:hover{
+  color: white;
+}
+
+.containerContactLink{
+  background-color: #2DA32D;
+  padding: 20px;
+}
+
+#equipe{
+  padding-top: 80px;
+}
+
+.bg-green{
+  background-color: #2DA32D;
+}
+
+.brd-green{
+  border: 3px solid #2DA32D;
+}
+
+.w-img-100{
+  width: 75%;
+}
+
+.f-green{
+  color: #2DA32D;
+}
