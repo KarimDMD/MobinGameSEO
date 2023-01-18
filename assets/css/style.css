@@ -8,3 +8,13 @@
   margin-top: 10px;
   margin-bottom: 10px;
 }
+
+.imgGalerie{
+  width: 100%;
+  border: 3px solid #2DA32D;
+  margin-bottom: 10px;
+}
+
+.chef-item{
+  margin-bottom: 20px;
+}
