@@ -18,3 +18,14 @@
 .chef-item{
   margin-bottom: 20px;
 }
+
+#galerie{
+    margin-left: 30px;
+    padding: 45px 30px;
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+.underline{
+  text-decoration: underline;
+}
