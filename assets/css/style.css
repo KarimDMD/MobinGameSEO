@@ -48,7 +48,7 @@
 
 .containerContactLink{
   background-color: #2DA32D;
-  padding: 20px;
+  padding: 50px;
 }
 
 #equipe{
@@ -63,8 +63,12 @@
   border: 3px solid #2DA32D;
 }
 
-.w-img-100{
+.w-img-75{
   width: 75%;
+}
+
+.w-img-100{
+  width: 100%;
 }
 
 .f-green{
