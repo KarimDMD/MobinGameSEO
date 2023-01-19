@@ -36,6 +36,7 @@
 
 .a-style:hover{
   color: #2DA32D;
+  text-decoration: underline;
 }
 
 .a-style2{
@@ -73,4 +74,8 @@
 
 .f-green{
   color: #2DA32D;
+}
+
+.underlineHover:hover{
+  text-decoration: underline;
 }
