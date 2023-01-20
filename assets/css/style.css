@@ -10,7 +10,6 @@
 }
 
 .imgGalerie{
-  width: 100%;
   border: 3px solid #2DA32D;
   margin-bottom: 10px;
 }
@@ -64,18 +63,20 @@
   border: 3px solid #2DA32D;
 }
 
-.w-img-75{
-  width: 75%;
-}
-
-.w-img-100{
-  width: 100%;
-}
-
 .f-green{
   color: #2DA32D;
 }
 
 .underlineHover:hover{
   text-decoration: underline;
+}
+
+.w-h-img-75{
+  width: 75%;
+  height: 100%;
+}
+
+.w-h-100{
+  width: 100%;
+  height: 100%;
 }
