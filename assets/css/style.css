@@ -80,3 +80,28 @@
   width: 100%;
   height: 100%;
 }
+
+.ul-dot {
+  list-style: none;
+  font-size: 14px;
+
+}
+
+.ul-dot .li-dot::before {
+  content: "\2022";
+  color: #2DA32D;
+  font-weight: bold;
+  display: inline-block; 
+  width: 1em;
+  margin-left: -1em;
+}
+
+.btnLireBlog{
+  background-color: #2DA32D;
+  border-color: #2DA32D;
+}
+
+.btnLireBlog:hover{
+  background-color: #207520;
+  border-color: #207520;
+}
